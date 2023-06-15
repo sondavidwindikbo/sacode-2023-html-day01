@@ -8,3 +8,6 @@ https://sacode.web.id/
 ##Instagram SaCode
 https://instagram.com/sacode.official
 
+## Demo project  day 01
+https://sondavidwindikbo.github.io/sacode-2023-html-day01/
+
